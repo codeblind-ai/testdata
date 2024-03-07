@@ -1,0 +1,39 @@
+{
+    "profile": [
+        {
+            "id": 1,
+            "first": "Spongebob",
+            "last": "Squarepants",
+            "email": "bob@underthesea.com",
+            "subscription": "gold"
+        },
+        {
+            "id": 2,
+            "first": "Patrick",
+            "last": "Star",
+            "email": "patrick@underthesea.com",
+            "subscription": "gold"
+        },
+        {
+            "id": 3,
+            "first": "Squidward",
+            "last": "Tentacles",
+            "email": "squidward@underthesea.com",
+            "subscription": "bronze"
+        },
+        {
+            "id": 4,
+            "first": "Eugene",
+            "last": "Krabs",
+            "email": "eugene@underthesea.com",
+            "subscription": "silver"
+        },
+        {
+            "id": 5,
+            "first": "Sandy",
+            "last": "Cheeks",
+            "email": "cheeky@underthesea.com",
+            "subscription": "silver"
+        }
+    ]
+}
